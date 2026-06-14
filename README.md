@@ -44,5 +44,7 @@ Outdoor music library: Students create an outdoor music library with the help of
 
 Μέσα και Υλικά: • Εκπαιδευτικό ρομπότ (VinciBot) Αξία: 160€ • Μουσικά όργανα • Υλικά για την κατασκευή της υπαίθριας μουσικής βιβλιοθήκης (προσφορά κοινότητας).
 
+ΣΕΛΙΔΑ ΣΤΟΝ ΑΝΟΙΧΤΟ ΔΙΑΓΩΝΙΣΜΟ ΤΕΧΝΟΛΟΓΙΩΝ: https://openedtech.ellak.gr/?post_type=robotics2026&p=15784&preview=true
+
 Αποθετήριο github: https://github.com/EKatsali/DoReSimoria
 
