@@ -60,7 +60,7 @@ https://youtu.be/MM1kEKtSBl0
 
 Μέσα και Υλικά: • Εκπαιδευτικό ρομπότ (VinciBot) Αξία: 160€ • Μουσικά όργανα • Υλικά για την κατασκευή της υπαίθριας μουσικής βιβλιοθήκης (προσφορά κοινότητας).
 
-ΣΕΛΙΔΑ ΣΤΟΝ ΑΝΟΙΧΤΟ ΔΙΑΓΩΝΙΣΜΟ ΤΕΧΝΟΛΟΓΙΩΝ: https://openedtech.ellak.gr/?post_type=robotics2026&p=15784&preview=true
+ΣΕΛΙΔΑ ΣΤΟΝ ΑΝΟΙΧΤΟ ΔΙΑΓΩΝΙΣΜΟ ΤΕΧΝΟΛΟΓΙΩΝ: https://openedtech.ellak.gr/robotics2026/chartino-to-fengaraki/
 
 Αποθετήριο github: https://github.com/EKatsali/DoReSimoria
 
